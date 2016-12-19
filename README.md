@@ -11,15 +11,13 @@ they could be considered as noise.
 
 ### example
 Let net be a hyper-network of 6 hyper-edges and three partites (denoted as columns)
-`net=`
-`1 2 3`
-`5 4 3`
-`5 6 7`
-`9 8 3`
-`11 10 7`
-`13 12 7`
-
->
+`net=`  
+`1 2 3`  
+`5 4 3`  
+`5 6 7`  
+`9 8 3`  
+`11 10 7`  
+`13 12 7` 
 
 
 `java javaClass   ---6   ---net  ---results`
